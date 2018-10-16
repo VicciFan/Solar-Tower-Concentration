@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{6989167D-11E4-40FE-8C1A-2192A86A7E90}") = "MCTA v2.1", "MCTA v2.1\MCTA v2.1.vfproj", "{BEED1C51-B2A9-4129-A176-5E03501736FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEED1C51-B2A9-4129-A176-5E03501736FF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BEED1C51-B2A9-4129-A176-5E03501736FF}.Debug|Win32.Build.0 = Debug|Win32
+		{BEED1C51-B2A9-4129-A176-5E03501736FF}.Release|Win32.ActiveCfg = Release|Win32
+		{BEED1C51-B2A9-4129-A176-5E03501736FF}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
